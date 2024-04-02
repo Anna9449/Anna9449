@@ -1,19 +1,15 @@
-<div><h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
-<h3 align="center">Python developer from St. Petersburg</h3>
-<h3>Technology stack:</h3>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-</a> 
-<a href="https://docs.djangoproject.com/en/4.2/releases/3.2/">
-  <img src="https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white"/>
-</a> 
-<a href="https://www.django-rest-framework.org/">
-  <img src="https://img.shields.io/badge/Django_REST_framework-3776AB?logo=djangorestramework&logoColor=white"/>
-</a>
+<div>
+  <h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
+  <h3 align="center">Python developer from St. Petersburg</h3>
+  <h3>Technology stack:</h3>
 </div>
-
-###Technology stack:
+[![name badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![name badge](https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/releases/3.2/)
+[![name badge](https://img.shields.io/badge/Django_REST_framework-3776AB?logo=djangorestramework&logoColor=white)](https://www.django-rest-framework.org/)
 [![name badge](https://img.shields.io/badge/PostgreSQL-3776AB?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![name badge](https://img.shields.io/badge/Gunicorn-3776AB?logo=gunicorn&logoColor=white)](https://docs.gunicorn.org/en/latest/)
+[![name badge](https://img.shields.io/badge/Nginx-3776AB?logo=nginx&logoColor=white)](https://nginx.org/)
+[![name badge](https://img.shields.io/badge/Docker-3776AB?logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 <!--
