@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
 <h3 align="center">Python developer from St. Petersburg</h3>
-<h3>Technology stack</h3>
+<h3>Technology stack:</h3>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+</a>
+<a href="https://docs.djangoproject.com/en/4.2/releases/3.2/">
+  <img src="https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white"/>
 </a>
 
 
