@@ -3,9 +3,13 @@
 <h3>Technology stack:</h3>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-</a>
+</a> 
 <a href="https://docs.djangoproject.com/en/4.2/releases/3.2/">
   <img src="https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white"/>
+</a>
+
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://img.shields.io/badge/Django_REST_framework-3776AB?logo=djangorestramework&logoColor=white"/>
 </a>
 
 
