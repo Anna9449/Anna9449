@@ -20,10 +20,10 @@
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" />
 </a>
 <a href="https://nginx.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" /> 
 </a>
 <a href="https://www.postman.com/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" />
+  <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" />
 </a>
 
 
