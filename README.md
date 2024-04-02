@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
+<div><h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
 <h3 align="center">Python developer from St. Petersburg</h3>
 <h3>Technology stack:</h3>
 <a href="https://www.python.org/">
@@ -6,12 +6,14 @@
 </a> 
 <a href="https://docs.djangoproject.com/en/4.2/releases/3.2/">
   <img src="https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white"/>
-</a>
-
+</a> 
 <a href="https://www.django-rest-framework.org/">
   <img src="https://img.shields.io/badge/Django_REST_framework-3776AB?logo=djangorestramework&logoColor=white"/>
 </a>
+</div>
 
+###Technology stack:
+[![name badge](https://img.shields.io/badge/PostgreSQL-3776AB?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 <!--
