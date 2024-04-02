@@ -1,15 +1,30 @@
-<div>
-  <h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
-  <h3 align="center">Python developer from St. Petersburg</h3>
-  <h3>Technology stack:</h3>
-</div>
-[![name badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![name badge](https://img.shields.io/badge/Django-3776AB?logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/releases/3.2/)
-[![name badge](https://img.shields.io/badge/Django_REST_framework-3776AB?logo=djangorestramework&logoColor=white)](https://www.django-rest-framework.org/)
-[![name badge](https://img.shields.io/badge/PostgreSQL-3776AB?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![name badge](https://img.shields.io/badge/Gunicorn-3776AB?logo=gunicorn&logoColor=white)](https://docs.gunicorn.org/en/latest/)
-[![name badge](https://img.shields.io/badge/Nginx-3776AB?logo=nginx&logoColor=white)](https://nginx.org/)
-[![name badge](https://img.shields.io/badge/Docker-3776AB?logo=docker&logoColor=white)](https://www.docker.com/)
+<h1 align="center">Hi there, I'm Anna Pestova 👋</h1>
+<h3 align="center">Python developer from St. Petersburg</h3>
+<h3>Technology stack:</h3>
+<a href="https://www.python.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+</a> 
+<a href="https://docs.djangoproject.com/en/4.2/releases/3.2/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"/>
+</a>
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+</a>
+<a href="https://sqlite.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"/>
+</a>
+<a href="https://nginx.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"/>
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"/>
+</a>
 
 
 <!--
